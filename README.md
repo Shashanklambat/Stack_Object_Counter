@@ -13,7 +13,7 @@ The repository is divided into **two main folders**: object-counter/
 
 └── web_app/
 
-# 📁 1. backend_test (Local Backend Testing)
+## 📁 1. backend_test (Local Backend Testing)
 ------------------------------------------
 
 This folder contains the **backend logic and local testing utilities** for the object counter model.
@@ -77,7 +77,7 @@ numpy
 **Use case:** Quick real-world testing without saving images manually.
 
 
-🌐 2. web_app (Production Web Frontend)
+##🌐 2. web_app (Production Web Frontend)
 ---------------------------------------
 
 This folder contains the **fully working frontend website**.
