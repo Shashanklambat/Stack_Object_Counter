@@ -15,7 +15,8 @@ object-counter/
 
 └── web_app/
 
-##🌐 1. web_app (Production Web Frontend)
+
+## 🌐 1. web_app (Production Web Frontend)
 ---------------------------------------
 
 This folder contains the **fully working frontend website**.
