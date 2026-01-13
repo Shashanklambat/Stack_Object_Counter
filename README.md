@@ -7,7 +7,9 @@ This project detects and counts stacked objects (such as pipes, boxes, or bricks
 
 -   The **web frontend** consumes the cloud API and works from anywhere
 
-The repository is divided into **two main folders**: object-counter/
+The repository is divided into **two main folders**: 
+
+object-counter/
 
 ├── backend_test/
 
