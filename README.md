@@ -1,5 +1,4 @@
 # 🧮 Object Stack Counter (Computer Vision + Web)
-===============================================
 
 This project detects and counts stacked objects (such as pipes, boxes, or bricks) from a **single image** using a trained computer vision model. It is designed as a **decoupled system**, where:
 
@@ -17,7 +16,6 @@ object-counter/
 
 
 ## 🌐 1. web_app (Production Web Frontend)
----------------------------------------
 
 This folder contains the **fully working frontend website**.
 
@@ -57,7 +55,6 @@ The live inference API is available here:
 
 
 ## 📁 2. backend_test (Local Backend Testing)
-------------------------------------------
 
 This folder contains the **backend logic and local testing utilities** for the object counter model.
 
