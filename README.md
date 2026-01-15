@@ -23,16 +23,16 @@ This folder contains the **fully working frontend website**.
 
 Instead, the backend (model inference API) is deployed on **Hugging Face Spaces**.
 
-### ☁️ Cloud Backend (Already Deployed)
+### 🌐 Live Web Preview
+👉 **Frontend Demo**:  
+<https://stack-object-counter.netlify.app/>
 
+### ☁️ Cloud Backend 
 The live inference API is available here:
-
 <https://shashanklambat-counter.hf.space/count>
 
 -   The frontend sends images to this endpoint
-
 -   The backend processes the image
-
 -   The response includes:
     -   Object count
     -   Processed image data
